@@ -1,5 +1,7 @@
 div.header {
 	text-align: center;
+	background-color: grey;
+	margin: auto;
 }
 div.container {
 	background-color: lavender;
@@ -13,10 +15,4 @@ div.navigationbar {
 	color: white;
 	max-width: 100%;
 	max-height: 100px;
-}
-div.about {
-	border-width: 10px;
-	border-color: red;
-	background-color: red;
-	
 }
