@@ -25,3 +25,12 @@ div.emailbanner {
 	height: 100px;
 	margin: auto;
 }
+div.footer {
+	background-color: #f2f2f2;
+	border-style: solid;
+	border-color: #d8d8d8;
+	height: 100px;
+	margin: auto;
+	border-width: 1px;
+
+}
